@@ -2,7 +2,7 @@ var mil = 0
 var hr = 0
 var sec = 0
 var min = 0
-for _ in(0...1000000){
+for _ in(0...86400000){
 mil+=1
 if(mil == 1000){
 mil = 0
