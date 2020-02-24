@@ -1,0 +1,16 @@
+3 vars
+seconds
+minutes
+hours
+3 ifs
+if seconds = 60
+if minutes  =60
+if hours = 24
+3 increment system
+seconds++
+minutes++
+hours++
+3 resets
+set seconds to 0
+set minutes to 0
+set hours to 0
