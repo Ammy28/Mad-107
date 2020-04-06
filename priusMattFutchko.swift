@@ -93,7 +93,7 @@ case "Door Edge Guards":
 accessories.append(choice)
 case "Paint Protection Film":
 accessories.append(choice)
-case "Rear Bumper Appliqué":
+case "Rear Bumper AppliquÃ©":
 accessories.append(choice)
 case "Rear Bumper Protector":
 accessories.append(choice)
